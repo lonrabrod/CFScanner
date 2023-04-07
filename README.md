@@ -1,6 +1,8 @@
 <br>
+<p align="center">
 <img src="./art/logo.png" width="250" style="display: block; margin: 0 auto"/>
-<p align="center" style="font-size: 32px;font-weight: bold;">Cloudflare Scanner</p>
+</p>
+<h1 align="center">Cloudflare Scanner</h1>
 <p align="center">This Android application allows users to scan Cloudflare IPs using a real V2ray client by inputting their config details and evaluating each address based on download speed. This enables them to identify the best IP addresses for optimal connection. The app provides a user-friendly interface for users to easily navigate and select their preferred IP addresses, as well as the ability to save results for later use.</p>
 
 <h6 align="center">
@@ -75,9 +77,9 @@ evaluate ip be connection speed.</br>
 
 ### ⚙️ Settings Screen
 
-| <div style="width:30%;text-align=center" >Settings Screen </div> |
+| Settings Screen |
 |------------------------------------------------------------------|
-| <img src="./art/settings.jpg" width="30%"/>                      | 
+| <img src="./art/settings.jpg" width="50%"/>                      | 
 
 #### Worker Seekbar
 
