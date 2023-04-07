@@ -203,6 +203,6 @@ the license, as it may depend on the terms of any third-party libraries or code
 that your project uses.
 ```
 ## ☎️ Contact
-reach me by:<br>
+reach me at:<br>
 [Telegram: @logandlv](https://t.me/logandlv)<br>
 [Email: dalvandsina@yahoo.com](mailto:dalvandsina@yahoo.com)
