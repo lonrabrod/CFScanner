@@ -140,7 +140,7 @@ Additionally, C++ was used to disable ``fdsan`` to avoid fatal error for native 
 ### Design
 
 I designed the logo using AdobeXD and incorporated its color scheme throughout the application.
-<img src="./art/design.jpg" width="70%" style="display: block; margin: 0 auto"/>
+<img src="./art/design.jpg" width="70%" style="display: block; margin: 0 auto"/><br>
 **Note: Design is accessible in ``art/logo.xd``for AdobeXD**
 
 ### Build and Run
