@@ -6,9 +6,6 @@
 <p align="center">This Android application allows users to scan Cloudflare IPs using a real V2ray client by inputting their config details and evaluating each address based on download speed. This enables them to identify the best IP addresses for optimal connection. The app provides a user-friendly interface for users to easily navigate and select their preferred IP addresses, as well as the ability to save results for later use.</p>
 
 <h6 align="center">
-<img src="https://img.shields.io/github/v/release/sinadalvand/CFScanner" height="22" valign="middle">&nbsp;&nbsp;
-<img src="https://img.shields.io/github/downloads/sinadalvand/CFScanner/total" height="22" valign="middle">&nbsp;&nbsp;
-<img src="https://img.shields.io/github/license/sinadalvand/CFScanner?style=flat-square" height="22" valign="middle">&nbsp;&nbsp;
 </h6>
 
 ## Contents
@@ -21,7 +18,6 @@
 - [🧑‍💻 Technical Overview](#🧑‍💻-Technical-Overview)
 - [⚒️ Upcoming Features](#⚒️-Upcoming-Features)
 - [🤝 Contribution Guidelines](#🤝-Contribution-Guidelines)
-- [📄 Licence](#📄-Licence)
 
 ## 📱 Installation
 
@@ -180,29 +176,5 @@ Please be patient as we review your contribution, and feel free to reach out if 
 questions or concerns. We appreciate your efforts to improve this project and look forward to
 working with you!
 
-## 📄 Licence
 
-```
-Copyright (c) 2023 Sina Dalvand
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see https://www.gnu.org/licenses/.
-
-Note that this conversion assumes that you have the right to make this change to 
-the license, as it may depend on the terms of any third-party libraries or code 
-that your project uses.
-```
-## ☎️ Contact
-reach me at:<br>
-[Telegram: @logandlv](https://t.me/logandlv)<br>
-[Email: dalvandsina@yahoo.com](mailto:dalvandsina@yahoo.com)
